@@ -8,6 +8,7 @@ Reusable materials, curriculum, and instructor guidelines for UAEM + AllTrials U
 
 ## Instructor(s) Information 
 **Alexandra Greenberg**, Advocacy & Campaigns Officer, [Universities Allied for Essential Medicines](https://uaem.org/)
+
 **April Clyburne-Sherin**, Campaign Manager, AllTrials USA at [Sense About Science USA](http://www.senseaboutscienceusa.org/) 
 
 ## Audience Level 
