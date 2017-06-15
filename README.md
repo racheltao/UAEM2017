@@ -39,16 +39,21 @@ This course will cover the following topics:
 
 ## Course Schedule
 
-### Day 1 - Monday 
+### Day 1 
 
+* What is transparency? Why does it matter?
+* What is advocacy?
+* What is UAEM and AllTrials USA? 
+* What role can you play in advocacy for transparency?
 * Defining your advocacy issue and advocacy goal.
+* Introduce Log Frame and Power Map.
 * Identifying key decision-makers and influencers.
-* Planning for opposition and obstacles.
-* Assessing your advocacy team and partners.
-* Selecting your advocacy objectives and activities.
 
 ### Day 2 - Tuesday 
 
+* Planning for opposition and obstacles.
+* Assessing your advocacy team and partners.
+* Selecting your advocacy objectives and activities.
 * Developing compelling messages.
 * Creating your advocacy and communication plans.
 * Evaluating advocacy and communication success.
