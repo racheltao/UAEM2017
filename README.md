@@ -1,6 +1,5 @@
 # UAEM2017
-
-# Reusable materials, curriculum, and instructor guidelines for UAEM + AllTrials USA Joint Workshops on Communication and Advocacy for Research Transparency in 2017.
+Reusable materials, curriculum, and instructor guidelines for UAEM + AllTrials USA Joint Workshops on Communication and Advocacy for Research Transparency in 2017.
 
 # Syllabus
 
