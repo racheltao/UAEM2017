@@ -46,14 +46,15 @@ This course will cover the following topics:
 * What is UAEM? What is AllTrials USA? 
 * What role can you play in advocacy for transparency?
 * Defining your advocacy issue and advocacy goal.
-* Introduce Log Frame and Power Map.
 * Identifying key decision-makers and influencers.
+* Creating a power map.
 
 ### Day 2 - Tuesday 
 
 * Planning for opposition and obstacles.
 * Assessing your advocacy team and partners.
-* Selecting your advocacy objectives and activities.
+* Selecting your advocacy objectives.
+* Creating a logical framework.
 * Developing compelling messages.
 * Creating your advocacy and communication plans.
 * Evaluating advocacy and communication success.
