@@ -43,7 +43,7 @@ This course will cover the following topics:
 
 * What is transparency? Why does it matter?
 * What is advocacy?
-* What is UAEM and AllTrials USA? 
+* What is UAEM? What is AllTrials USA? 
 * What role can you play in advocacy for transparency?
 * Defining your advocacy issue and advocacy goal.
 * Introduce Log Frame and Power Map.
