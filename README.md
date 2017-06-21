@@ -63,7 +63,7 @@ This course will cover the following topics:
 
 ### Required 
 
-* [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency-advocacy-toolkit.md)
+* [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency_advocacy_toolkit.md)
 * [Transparency Advocacy Workbook](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Advocacy_toolkit_worksheets.pdf)
 * [Strategies for Success: Open Access Policies at North American Educational Institutions (Fruin & Sutton, 2016)](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Strategies-for-Success_Fruin-Sutton-2016.pdf)
 
@@ -75,5 +75,5 @@ This course will cover the following topics:
 
 ## Other Helpful Information
 
-We will spend most of Monday’s class creating an advocacy plan for your advocacy issue. If possible, review the "Choose an advocacy issue" section of the [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency-advocacy-toolkit.md#choose-an-advocacy-issue) in advance of the class so you have an issue in mind from the start.
+We will spend most of Monday’s class creating an advocacy plan for your advocacy issue. If possible, review the "Choose an advocacy issue" section of the [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency_advocacy_toolkit.md#choose-an-advocacy-issue) in advance of the class so you have an issue in mind from the start.
 
