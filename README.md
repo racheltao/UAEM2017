@@ -65,15 +65,10 @@ This course will cover the following topics:
 
 * [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency_advocacy_toolkit.md)
 * [Transparency Advocacy Workbook](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Advocacy_toolkit_worksheets.pdf)
-* [Strategies for Success: Open Access Policies at North American Educational Institutions (Fruin & Sutton, 2016)](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Strategies-for-Success_Fruin-Sutton-2016.pdf)
+* [Strategies for Success: Open Access Policies at North American Educational Institutions (Fruin & Sutton, 2016)](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Strategies-for-Success_Fruin-Sutton-2016.pdf)
 
 ### Other Resources
 
 * [Registry of Open Access Repository Mandates and Policies (ROARMAP) ](https://roarmap.eprints.org/)
-* [Increasing value and reducing waste in biomedical research: who’s listening? (Moher et al., 2015)](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Increasing-value-and-reducing-waste-in-biomedical-research-whos-listening_Moher-2015.pdf)
-* [Four Proposals to Help Improve the Medical Research Literature (Moher & Altman, 2015)](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Four-Proposals-to-Help-Improve-the-Medical-Research-Literature_Moher-Altman-2015.PDF)
-
-## Other Helpful Information
-
-We will spend most of Monday’s class creating an advocacy plan for your advocacy issue. If possible, review the "Choose an advocacy issue" section of the [Transparency Advocacy Toolkit](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Transparency_advocacy_toolkit.md#choose-an-advocacy-issue) in advance of the class so you have an issue in mind from the start.
-
+* [Increasing value and reducing waste in biomedical research: who’s listening? (Moher et al., 2015)](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Increasing-value-and-reducing-waste-in-biomedical-research-whos-listening_Moher-2015.pdf)
+* [Four Proposals to Help Improve the Medical Research Literature (Moher & Altman, 2015)](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Four-Proposals-to-Help-Improve-the-Medical-Research-Literature_Moher-Altman-2015.PDF)
