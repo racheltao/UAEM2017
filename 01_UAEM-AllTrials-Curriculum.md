@@ -128,6 +128,52 @@
 
 ## Peer-reviewing your advocacy and communication plans.
 
+# Day 3 (DC Workshop Only)
+
+## Identify successful actions.
+* Come with an example of a successful creative action and one issue resolved through legislative action.
+   * Why did you pick this example, what make it successful?
+   * Discuss what worked and what didn’t.
+
+## Walk through action planning for advocacy
+
+1. Preparing and engaging with decision-makers
+   * Meeting with a legislator formally
+   * “Birddogging” 
+   * Meeting with an administrator
+2. Planning creative actions
+   * Civil disobedience
+   * Street theatre
+   * Demonstration, rally or march
+   * Online actions - tweetstorms, letter-writing campaigns, petitions
+3. Using social media and earned media effectively
+   * Created media and social media planning
+   * Pre-event press release and outreach
+   * During event, filming and photos
+   * Post-event spokespeople and outreach
+   * Created media post-event on medium, social media, blogs, OpEds
+
+## Divide up into groups of 5 to plan an action
+* Look at our joint advocacy plan.
+* Pick one activity we have listed to achieve a specific objective
+* Pick your target from the list and do your research
+* Plan your talking points and ask
+* Prepare your personal story
+* Assign roles.
+* Prepare a leave-behind and plan for follow-up
+
+## Practice!
+* Link to a creative action
+   * Props, script, roles, location, ask
+* Earned media vs created media
+   * Photographer/videographer
+   * Social media plan
+   * Press release and outreach
+   * Press pitch, spokesperson
+* Practice!
+* Write a blog, find any coverage, share with your networks
+* Follow up with decision-maker(s) and reflect
+
 # Course Materials and Supplies
 
 ## Required
