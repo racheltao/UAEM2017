@@ -41,20 +41,21 @@ This course will cover the following topics:
 
 ### Day 1 
 
-* What is transparency? Why does it matter?
+* What is research transparency?
 * What is advocacy?
+* Solutions and issues ripe for advocacy.
 * What is UAEM? What is AllTrials USA? 
 * What role can you play in advocacy for transparency?
 * Defining your advocacy issue and advocacy goal.
 * Identifying key decision-makers and influencers.
 * Creating a power map.
 
-### Day 2 - Tuesday 
+### Day 2
 
 * Planning for opposition and obstacles.
 * Assessing your advocacy team and partners.
 * Selecting your advocacy objectives.
-* Creating a logical framework.
+* Creating an advocacy plan.
 * Developing compelling messages.
 * Creating your advocacy and communication plans.
 * Evaluating advocacy and communication success.
@@ -73,3 +74,7 @@ This course will cover the following topics:
 * [Registry of Open Access Repository Mandates and Policies (ROARMAP) ](https://roarmap.eprints.org/)
 * [Increasing value and reducing waste in biomedical research: who’s listening? (Moher et al., 2015)](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Increasing-value-and-reducing-waste-in-biomedical-research-whos-listening_Moher-2015.pdf)
 * [Four Proposals to Help Improve the Medical Research Literature (Moher & Altman, 2015)](https://github.com/AllTrialsUSA/UAEM2017/blob/master/Four-Proposals-to-Help-Improve-the-Medical-Research-Literature_Moher-Altman-2015.PDF)
+
+### [Curriculum](https://github.com/AllTrialsUSA/UAEM2017/blob/master/01_UAEM-AllTrials-Curriculum.md)
+
+
